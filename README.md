@@ -5,3 +5,6 @@ Flutter ve Dart Kullanılmıştır bir çok dil gözükmesinin özellikle c++ a�
 
 
 ![ornek_resim](https://github.com/mmkocak/flutter-orta-seviye-hesap-makinasi-ornegi/blob/4ecca03b4580ea8c12307773d733f52c09c654c4/ekrangoruntusu/Screenshot_20221129_170341.png)
+
+
+![ornek_resim](https://github.com/mmkocak/flutter-orta-seviye-hesap-makinasi-ornegi/blob/397096da6702d846e1b75e8e8833441427f397de/ekrangoruntusu/ekrangoruntusu.png)
